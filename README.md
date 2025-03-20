@@ -17,10 +17,4 @@ This is a **Spring Boot web application** that integrates an **H2 in-memory data
 git clone https://github.com/dograhimanshu/Springboot-Project.git
 cd Springboot-Project
 
- ### 2. Run the Application
-### Using Maven:
 
-bash
-Copy
-Edit
-mvn spring-boot:run
